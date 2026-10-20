@@ -51,7 +51,3 @@ parsed into one row per delivery. Rain-affected (DLS) matches are filtered out.
 ## Tech stack
 
 Python, pandas, scikit-learn, LightGBM, matplotlib
-
-## How to run
-
-_Add setup and run instructions here._
